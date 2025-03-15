@@ -36,10 +36,10 @@
 
 
 ### **🛠️ Tools & Platforms**  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)  
-![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-FF4500?style=flat-square&logo=swift&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white) 
+![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-FF4500?style=flat-square&logo=swift&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) 
 ![GoodNotes](https://img.shields.io/badge/GoodNotes-0057FF?style=flat-square&logoColor=white)  
 
 ---
