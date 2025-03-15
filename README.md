@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>💫 Hi 👋, I'm Amaan</h1>
-  <h2>A Passionate iOS Developer 🚀</h2>
+  <h1> Hi 👋, I'm Amaan</h1>
+  <h2>A Passionate iOS Developer </h2>
 </div>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 About Me  
+## 👨🏽‍💻 About Me  
 
-- 🌍 **Based in:** Delhi  
+- 🌍 **Based in:** Delhi , India 
 - 🎯 **Current Goal:** Honing my coding skills & building cool iOS apps  
 - 🎵 **Hobbies:** Music, Self-introspection, Observing the world around me  
 - 🏆 **WWDC Aspirant:** Aiming for the **Distinguished Winner** spot!  
