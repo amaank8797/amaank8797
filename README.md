@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EFDED&center=true&vCenter=true&width=500&lines=Swift+%7C+SwiftUI+%7C+Firebase+%7C+Java+%7C+SQL;Software+Developer+(iOS);Always+learning+something+new!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EFDED&center=true&vCenter=true&width=500&lines=Swift+%7C+SwiftUI+%7C+Firebase+%7C+Java+%7C+SQL;Software+Developer+(iOS);Always+learning+something+new!" />
 </p>
 
 ## 📊 Profile Views  
