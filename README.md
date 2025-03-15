@@ -26,17 +26,21 @@
 ## 🛠️ Tech Stack  
 
 ### **💻 Languages & Frameworks**
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)  
+ 
 
-### **🛠️ Tools & Platforms**
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+### **🛠️ Tools & Platforms**  
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)  
+![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-FF4500?style=flat-square&logo=swift&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![GoodNotes](https://img.shields.io/badge/GoodNotes-0057FF?style=flat-square&logoColor=white)  
 
 ---
 
@@ -68,8 +72,9 @@
 
 ## 📌 Recent GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amaank8797&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaank8797&theme=dracula&hide_border=true&area=true" />
 </p>
+
 
 ---
 
